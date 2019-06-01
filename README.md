@@ -1,6 +1,5 @@
 # Dcard-scrap-with-selenium
-Dcard scrap with selenium
-scrape Dcard with selenium
+Dcard scrape with selenium
 
 Selenium API：https://selenium-python.readthedocs.io/api.html
 Download Chrome Driver:https://sites.google.com/a/chromium.org/chromedriver/
